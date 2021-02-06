@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kscherling/Figma-Utils/issues"
   },
-  "homepage": "https://github.com/kscherling/Figma-Utils#readme"
+  "homepage": "https://github.com/kscherling/Figma-Utils#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
